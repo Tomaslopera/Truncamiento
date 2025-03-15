@@ -30,7 +30,7 @@ Para ejecutar los ejemplos, clona este repositorio y asegúrate de instalar las 
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/truncamiento-simulacion.git
+git clone
 cd truncamiento-simulacion
 
 # Crear un entorno virtual (opcional)
