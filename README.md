@@ -1,5 +1,8 @@
 # Truncamiento de Distribuciones en Simulación Empresarial
 
+- Tomás Lopera
+- Pedro Sierra
+
 Este repositorio contiene un libro interactivo que explora el truncamiento de distribuciones estadísticas y su aplicación en simulaciones empresariales. Se incluyen ejemplos prácticos implementados en Python con bibliotecas como `numpy`, `scipy.stats` y `seaborn`.
 
 ---
